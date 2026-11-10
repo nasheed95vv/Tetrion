@@ -8,7 +8,6 @@
 
 Разработчик: Studia ISLAM.
 Контакт для вопросов о данных: ra1111vvhh@gmail.com.
-Юридический адрес и сведения о юридическом лице: [ЗАПОЛНИТЬ ПЕРЕД ПУБЛИКАЦИЕЙ, если требуется законом].
 
 ## 2. Коротко
 
@@ -84,7 +83,7 @@
 
 При изменении политики мы обновим дату в начале документа и опубликуем новую версию по этой же ссылке. Существенные изменения будут отражены в описании обновления Игры.
 
-[Документ требует юридической проверки перед публикацией.]
+
 
 ---
 
@@ -174,4 +173,4 @@ Depending on where you live you may have additional rights (for example under GD
 
 If this policy changes we will update the date above and publish the new version at the same address. Material changes will be mentioned in the Game's release notes.
 
-[This document requires legal review before publication.]
+
